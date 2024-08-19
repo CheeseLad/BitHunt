@@ -39,7 +39,7 @@
 </script>
 
 <head>
-	<title>BitHunt</title>
+	<title>Redbrick Treasure Hunt</title>
 </head>
 
 <Toasts />
@@ -47,7 +47,7 @@
 <div class="container">
 	<Thumb />
 
-	<h1 class="title verylarge nogap">BitHunt</h1>
+	<h1 class="title verylarge nogap">Redbrick Treasure Hunt</h1>
 
 	{#if data.status == 200}
 		<div class="row justify-content-center">
@@ -67,13 +67,11 @@
 					<div class="row justify-content-center">
 						<div class="col-md-6">
 							<button class="cspp" on:click={() => register()}>
-								<UserPlus color="var(--green)" size="32"/>
 								Register
 							</button>
 						</div>
 						<div class="col-md-6">
 							<button class="cspp" on:click={() => login()}>
-								<LogIn color="var(--green)" size="32"/>
 								Login
 							</button>
 						</div>

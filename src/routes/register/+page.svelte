@@ -21,7 +21,7 @@
 <Toasts />
 
 <head>
-	<title>BitHunt - Create Account</title>
+	<title>Redbrick Treasure Hunt - Create Account</title>
 </head>
 
 <h1 class="title large">Create an Account</h1>

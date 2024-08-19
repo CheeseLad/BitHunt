@@ -56,7 +56,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - Admin Portal</title>
+	<title>Redbrick Treasure Hunt [🛡️] - Admin Portal</title>
 </head>
 
 <Toasts />

@@ -6,7 +6,7 @@
 </script>
 
 <head>
-	<title>BitHunt - Stages</title>
+	<title>Redbrick Treasure Hunt - Stages</title>
 </head>
 
 <button class="cspp" on:click={() => window.location.href = '/'}>

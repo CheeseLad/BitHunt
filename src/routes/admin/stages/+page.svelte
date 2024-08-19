@@ -21,7 +21,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - Stages</title>
+	<title>Redbrick Treasure Hunt [🛡️] - Stages</title>
 </head>
 
 <h1 class="title large nogap">Stages</h1>

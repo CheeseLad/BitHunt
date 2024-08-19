@@ -28,7 +28,7 @@
 </script>
 
 <head>
-    <title>BitHunt - Winner!</title>
+    <title>Redbrick Treasure Hunt - Winner!</title>
 </head>
 
 {#if data.status == 200}

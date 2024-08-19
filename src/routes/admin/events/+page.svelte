@@ -37,7 +37,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - Events</title>
+	<title>Redbrick Treasure Hunt [🛡️] - Events</title>
 </head>
 
 <Toasts />

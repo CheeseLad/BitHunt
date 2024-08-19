@@ -1,5 +1,5 @@
 <head>
-	<title>BitHunt - Privacy Policy</title>
+	<title>Redbrick Treasure Hunt - Privacy Policy</title>
 </head>
 
 <h1 class="title large">Privacy Policy</h1>

@@ -28,7 +28,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - QR for {data.name}</title>
+	<title>Redbrick Treasure Hunt [🛡️] - QR for {data.name}</title>
 </head>
 
 <button class="cspp" on:click={() => (window.location.href = '/admin/stages')}>

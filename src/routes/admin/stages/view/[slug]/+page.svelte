@@ -18,7 +18,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - View {data.stage.name}</title>
+	<title>Redbrick Treasure Hunt [🛡️] - View {data.stage.name}</title>
 </head>
 
 <h1 class="title large">{data.stage.name}</h1>

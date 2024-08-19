@@ -23,7 +23,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - Create Stage</title>
+	<title>Redbrick Treasure Hunt [🛡️] - Create Stage</title>
 </head>
 
 <Toasts />

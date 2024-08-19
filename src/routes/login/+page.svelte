@@ -21,7 +21,7 @@
 <Toasts />
 
 <head>
-	<title>BitHunt - Log in</title>
+	<title>Redbrick Treasure Hunt - Log in</title>
 </head>
 
 <h1 class="title large">Log Back In</h1>

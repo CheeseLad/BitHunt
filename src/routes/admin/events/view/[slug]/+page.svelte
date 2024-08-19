@@ -20,7 +20,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - View {data.event.name}</title>
+	<title>Redbrick Treasure Hunt [🛡️] - View {data.event.name}</title>
 </head>
 
 <h1 class="title large">{data.event.name}</h1>

@@ -6,7 +6,7 @@
 </script>
 
 <head>
-	<title>BitHunt [🛡️] - Winner!</title>
+	<title>Redbrick Treasure Hunt [🛡️] - Winner!</title>
 </head>
 
 <div class="container-flex">
